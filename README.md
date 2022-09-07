@@ -1,4 +1,4 @@
-Personal website project: ignatioferreira.com
+Personal website project: https://ignatioferreira.com
 
 Used this react project as a template: 
 https://github.com/tbakerx/react-resume-template
