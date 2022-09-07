@@ -1,8 +1,7 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "heading": "Ignatio Ferreira",
+    "subheading": "Ek hou van kaas",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -14,32 +13,17 @@
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://www.ignatioferreira.com",
+    "resumedownload": "https://www.ignatioferreira.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/ignatio-ferreira/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/ignatioferreira",
         "className": "fa fa-github"
       }
     ]
@@ -48,30 +32,33 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Belgium Campus ITVersity",
+        "degree": "Bacholer of computing - NQF 8",
+        "graduated": "April 2022",
+        "description": [
+          "asdfsadfljsdfl;asjdflasjd;lfjqopweifjqroperferio.",
+          "asdfsadfljsdfl;asjdflasjd;lfjqopweifjqroperferio."
+        ]
       },
       {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
+        "school": "High School Overkruin",
+        "degree": "National Senior Certificate",
         "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": [
+          "asdfsadfljsdfl;asjdflasjd;lfjqopweif jqroperferio.",
+          "asdfsadfljsdfl;asjdflasjd;lfjqopweifj qroperferio."
+        ]
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Sybrin Systems",
+        "title": "Graduate DevOps Engineer",
+        "years": "2022/01 - Present",
+        "description": [
+          "Dasdfasdfasdfasdfasdf know.",
+          "Dasdfasdfassdafgtrt5htydfasdfasdf know."
+        ]
       }
     ],
     "skills": [
@@ -102,6 +89,82 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Docker",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "docker.png"
+      },
+      {
+        "title": "Kubernetes",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "kubernetes.png"
+      },
+      {
+        "title": "Jenkins",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "jenkins.png"
+      },
+      {
+        "title": "Azure",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "azure.png"
+      },
+      {
+        "title": "Powershell & Basg",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "powershell.png"
+      },
+      {
+        "title": "SQL",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "sql.png"
+      },
+      {
+        "title": "IIS & Nginx",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "nginx.png"
+      }
+    ]
+  },
+  "workexperience": {
+    "projects": [
+      {
+        "title": "Docker",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "docker.png"
+      },
+      {
+        "title": "Kubernetes",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "kubernetes.png"
+      },
+      {
+        "title": "Jenkins",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "jenkins.png"
+      },
+      {
+        "title": "Azure",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "azure.png"
+      },
+      {
+        "title": "Powershell & Basg",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "powershell.png"
+      },
+      {
+        "title": "SQL",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "sql.png"
+      },
+      {
+        "title": "IIS & Nginx",
+        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+        "image": "nginx.png"
       }
     ]
   },
@@ -146,7 +209,7 @@
         "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "That Ignatio Ferreira must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user": "Steve Wozniak... impersonator"
       }
     ]
