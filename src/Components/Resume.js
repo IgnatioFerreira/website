@@ -25,25 +25,25 @@ class Resume extends Component {
           </ul>
         </div>
       })
-      var skills = this.props.data.skills.map(function (skills) {
-        var className = 'bar-expand ' + skills.name.toLowerCase();
-        return <li key={skills.name}><span style={{ width: skills.level }} className={className}></span><em>{skills.name}</em></li>
-      })
-      var projects = this.props.data.projects.map(function (projects) {
-        var projectImage = 'images/pics/' + projects.image;
-        return <div key={projects.title} className="columns portfolio-item">
-          <div className="item-wrap">
-            <img alt={projects.title} src={projectImage} />
+      // var skills = this.props.data.skills.map(function (skills) {
+      //   var className = 'bar-expand ' + skills.name.toLowerCase();
+      //   return <li key={skills.name}><span style={{ width: skills.level }} className={className}></span><em>{skills.name}</em></li>
+      // })
+      // var projects = this.props.data.projects.map(function (projects) {
+      //   var projectImage = 'images/pics/' + projects.image;
+      //   return <div key={projects.title} className="columns portfolio-item">
+      //     <div className="item-wrap">
+      //       <img alt={projects.title} src={projectImage} />
 
-          </div>
-          <div className="overlay">
-            <div className="portfolio-item-meta">
-              <h5>{projects.title}</h5>
-              <p>{projects.category}</p>
-            </div>
-          </div>
-        </div>
-      })
+      //     </div>
+      //     <div className="overlay">
+      //       <div className="portfolio-item-meta">
+      //         <h5>{projects.title}</h5>
+      //         <p>{projects.category}</p>
+      //       </div>
+      //     </div>
+      //   </div>
+      // })
     }
 
     return (
@@ -74,36 +74,27 @@ class Resume extends Component {
             </div>
           </div>
         </div>
-
-
-
-
-
-        <div className="row skill">
-
-          <div className="three columns header-col">
-            <h1><span>Skills</span></h1>
-          </div>
-
-
-          <div className="row">
-
-            <div className="twelve columns collapsed">
-
-
-              <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
-                {projects}
-              </div>
-            </div>
-          </div>
-
-
-        </div>
-
-
       </section>
     );
   }
 }
 
 export default Resume;
+        // {/* <div className="row skill">
+
+        //   <div className="three columns header-col">
+        //     <h1><span>Skills</span></h1>
+        //   </div>
+
+
+        //   <div className="row">
+
+        //     <div className="twelve columns collapsed">
+
+
+        //       <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+        //         {projects}
+        //       </div>
+        //     </div>
+        //   </div>
+        // </div> */}

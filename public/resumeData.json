@@ -3,13 +3,13 @@
     "heading": "Ignatio Ferreira",
     "subheading": "Ek hou van kaas",
     "image": "profilepic.jpg",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus. Fusce sit amet arcu vel sem porta venenatis. Duis feugiat iaculis condimentum. Suspendisse eu diam faucibus, interdum dui vitae, suscipit quam.",
+    "bio": "Hi, I'm a student in South Africa currently studying at Belgium Campus ITVersity and working full time as a DevOps engineer at Sybrin. I want to use my career to make cool things and meet awesome people. In my free time, I paint, make sounds on instruments and workout. My three favorite people are Jordan Peterson, Elon Musk and Lex Fridman. Thank you for visiting my website!",
     "email": "ignatio.ferreira@gmail.com or ignatio.ferreira@sybrin.com",
     "phone": "+27 76 488 3869",
     "address": {
     },
     "website": "https://www.ignatioferreira.com",
-    "resumedownload": "https://www.ignatioferreira.com",
+    "resumedownload": "https://www.ignatioferreira.com/resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -27,13 +27,12 @@
     "education": [
       {
         "school": "Belgium Campus ITVersity",
-        "degree": "Bacholer of computing - NQF 8",
+        "degree": "Bacholer of computing, NQF 8",
         "graduated": "April 2022",
         "description": [
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          "Average 77%",
+          "Gained exposure to SQL, Javascript, Java, C#, GIT, HTML & CSS and project management, academic writing, innovation and leadership.",
+          "Selected to participate in international exchange program with 5 other students. Worked with Llieda, PXL, Fontys and FHOO University. Studied UX, AI, Cyber Security, Data Science and IoT. Stayed in Spain, Belgium and the Netherlands."
         ]
       },
       {
@@ -41,10 +40,9 @@
         "degree": "National Senior Certificate",
         "graduated": "March 2003",
         "description": [
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          "Average 77%",
+          "Received subject prize for IT with 91%.",
+          "Had 100% attendance."
         ]
       }
     ],
@@ -54,10 +52,13 @@
         "title": "Graduate DevOps Engineer",
         "years": "2022/01 - Present",
         "description": [
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          "Maintained CI/CD infrastructure, e.g., Modified and created Jenkins jobs, deployed applicationsto Kubernetes and Dockerized applications.",
+          "Maintained SQL databases, e.g., Moved databases, cleaned databases, reclaimed space and rebuiltindexes.",
+          "Gained exposure to SQL, C#, Git, Docker, Kubernetes, Jenkins, Azure, Nginx, IIS, Powershell andBash.",
+          "Hardened environments, e.g., Renewed SSL certificates, added headers and ran security scans.",
+          "Developed software, e.g., Fixed bugs and added features (in C#, WPF and Powershell).",
+          "Administered GIT & SVN, e.g., Provided access and created repositories.",
+          "Automated things in Python and Shell."
         ]
       }
     ],
@@ -172,25 +173,25 @@
     "projects": [
       {
         "title": "Weather WebApp",
-        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus.",
+        "category": "Created a resume website with React and hosted it on Google Cloud Platform’s App Engine. Used Javascript and CSS.",
         "image": "weather.png",
         "url": "https://github.com/IgnatioFerreira/React-Express-OpenWeatherAPI-WebApp"
       },
       {
         "title": "Spotify-Twitter CLI App",
-        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus.",
+        "category": "Created a CLI application that uses the Spotify, Twitter and OMDB APIs to retrieve song details, tweets and movie details. Made with Javascript, Nodejs and love.",
         "image": "apiapp.png",
         "url": "https://github.com/IgnatioFerreira/Spotify-Twitter-omdb-APIImplementation"
       },
       {
         "title": "Sorting Visualizer",
-        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus.",
+        "category": "Created a bubble sort visualizer with React and hosted it on GitHub Pages.",
         "image": "sortingvis.png",
         "url": "https://ignatioferreira.github.io/SortingVisualizerExercise/"
       },
       {
         "title": "Resume Website",
-        "category": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rhoncus lacus quis metus malesuada faucibus.",
+        "category": "Created a resume website with React and hosted it on Google Cloud Platform’s App Engine. Used Javascript and CSS.",
         "image": "website.png",
         "url": "https://github.com/IgnatioFerreira/website"
       }

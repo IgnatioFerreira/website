@@ -253,7 +253,7 @@ ul#nav li.current a { color: #F06000; }
 #resume {
    background: #fff;
    padding-top: 90px;
-   padding-bottom: 72px;
+   /* padding-bottom: 72px; */
    overflow: hidden;
 }
 
@@ -279,7 +279,7 @@ ul#nav li.current a { color: #F06000; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   /* border-bottom: 1px solid #E8E8E8; */
 }
 /*edit was here*/
 .education, .work p {
@@ -451,8 +451,8 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
-.portfolio-item .item-wrap {
+/* #portfolio-wrapper .columns { margin-bottom: 36px; } */
+/* .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
    position: relative;
@@ -536,7 +536,7 @@ ul#nav li.current a { color: #F06000; }
    opacity: 1;
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
-}
+} */
 
 /* popup modal */
 .popup-modal {
