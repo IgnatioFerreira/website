@@ -53,13 +53,13 @@
         "title": "Graduate DevOps Engineer",
         "years": "2022/01 - Present",
         "description": [
-          "Maintained CI/CD infrastructure, e.g., Modified and created Jenkins jobs, deployed applicationsto Kubernetes and Dockerized applications.",
-          "Maintained SQL databases, e.g., Moved databases, cleaned databases, reclaimed space and rebuiltindexes.",
-          "Gained exposure to SQL, C#, Git, Docker, Kubernetes, Jenkins, Azure, Nginx, IIS, Powershell andBash.",
+          "Maintained CI/CD infrastructure, e.g., Modified and created Jenkins jobs, deployed applications to Kubernetes and Dockerized applications.",
+          "Maintained SQL databases, e.g., Moved databases, cleaned databases, reclaimed space and rebuilt indexes.",
           "Hardened environments, e.g., Renewed SSL certificates, added headers and ran security scans.",
           "Developed software, e.g., Fixed bugs and added features (in C#, WPF and Powershell).",
           "Administered GIT & SVN, e.g., Provided access and created repositories.",
-          "Automated things in Python and Shell."
+          "Automated things in Python and Shell.",
+          "Gained exposure to SQL, C#, Git, Docker, Kubernetes, Jenkins, Azure, Nginx, IIS, Powershell and Bash."
         ]
       }
     ],
