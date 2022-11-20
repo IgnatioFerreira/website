@@ -174,7 +174,7 @@
     "projects": [
       {
         "title": "Weather WebApp",
-        "category": "Created a weather app that displays weather details for a specified area using the OpenWeatherMap  API. Used React, Javascript and CSS.",
+        "category": "Created a weather app that displays weather details for a specified area using the OpenWeatherMap API. Used React, Javascript and CSS.",
         "image": "weather.png",
         "url": "https://github.com/IgnatioFerreira/React-Express-OpenWeatherAPI-WebApp"
       },
