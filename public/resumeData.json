@@ -58,7 +58,7 @@
           "Hardened environments, e.g., Renewed SSL certificates, added headers and ran security scans.",
           "Developed software, e.g., Fixed bugs and added features (in C#, WPF and Powershell).",
           "Administered GIT & SVN, e.g., Provided access and created repositories.",
-          "Automated things in Python and Shell.",
+          "Automated things in Python and Shell.",  
           "Gained exposure to SQL, C#, Git, Docker, Kubernetes, Jenkins, Azure, Nginx, IIS, Powershell and Bash."
         ]
       }
@@ -174,7 +174,7 @@
     "projects": [
       {
         "title": "Weather WebApp",
-        "category": "Created a resume website with React and hosted it on Google Cloud Platform’s App Engine. Used Javascript and CSS.",
+        "category": "Created a weather app that displays weather details for a specified area using the OpenWeatherMap  API. Used React, Javascript and CSS.",
         "image": "weather.png",
         "url": "https://github.com/IgnatioFerreira/React-Express-OpenWeatherAPI-WebApp"
       },
