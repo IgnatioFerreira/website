@@ -30,7 +30,7 @@
         "degree": "Bacholer of computing, NQF 8",
         "graduated": "Graduating 2023",
         "description": [
-          "Average 77%",
+          "Average 82.5%",
           "Studied Software Engineering.",
           "Gained exposure to SQL, Javascript, Java, C#, GIT, HTML & CSS and project management, academic writing, innovation and leadership.",
           "Selected to participate in international exchange program with 5 other students. Worked with Llieda, PXL, Fontys and FHOO University. Studied UX, AI, Cyber Security, Data Science and IoT. Stayed in Spain, Belgium and the Netherlands."
@@ -50,7 +50,7 @@
     "work": [
       {
         "company": "Sybrin Systems",
-        "title": "Graduate DevOps Engineer",
+        "title": "DevOps Engineer",
         "years": "2022/01 - Present",
         "description": [
           "Maintained CI/CD infrastructure, e.g., Modified and created Jenkins jobs, deployed applications to Kubernetes and Dockerized applications.",
