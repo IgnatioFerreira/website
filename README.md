@@ -1,3 +1,5 @@
+(CURRENTLY NOT BEING HOSTED)
+
 Personal website project: https://ignatioferreira.com
 
 Used this react project as a template:  
